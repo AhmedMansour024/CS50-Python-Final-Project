@@ -34,3 +34,8 @@ make
     - then the program will ask about **Format type** And There is Two Choices:
         - if user want one format only Like [**TV**, **OVA**, **Movie**, **Special**, **ONA**, **Music**, **CM**, **PV**, **TV Special**].
         - if the user want to get all formats **all**.
+## Here is Some images
+- ![Using **insert data**](images/1.JPG)
+- ![Database File](images/2.JPG)
+- ![Using **get data**](images/3.JPG)
+- ![Displaying CSV File with Microsoft Excel](images/4.JPG)

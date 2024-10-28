@@ -7,8 +7,9 @@
 Fetch Data From MyAnimeList API And Save it To db file And Extract Data From db File And Save it in CSV file Based on Format Type Like [TV, OVA, Movie, Special, ONA, Music, CM, PV, TV Special]
 
 ## Requirements For The Program to Run:
-1. **You Must Have CLIENT ID From MyAnimeList Website.**
-2. **You Have to Run (make) In The TERMINAL To install all necessary Libraries and to Create Environment for the program to run with no Error.**
+1. You Must Have **CLIENT ID** From MyAnimeList Website.
+2. You Have to Run **make** In The TERMINAL To install all necessary Libraries and to Create Environment for the program to run with no Error.
+3. You can CHECK How To Install **make** [HERE](https://github.com/AhmedMansour024/CS50-Python-Final-Project/blob/984d3ea05c69288cc7f9bd537f80bce438a89d1f/installing_make.md)
 
 ###  CLIENT ID
 

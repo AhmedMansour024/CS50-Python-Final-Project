@@ -32,9 +32,7 @@ If you already have Git installed on your system, it may include make. You can c
 
 1. **Install Git for Windows:**
 
-   #### Download and install Git from Git for Windows
-
-   <https://gitforwindows.org/>
+   #### Download and install Git from [Git for Windows](https://gitforwindows.org/)
 
 2. **Check for make:**
 
@@ -53,9 +51,7 @@ If you already have Git installed on your system, it may include make. You can c
 
 1. **Download and install MinGW:**
 
-   #### Download from the official website: MinGW-w64
-
-   <https://www.mingw-w64.org/>
+   #### Download from the official website: [MinGW-w64](https://www.mingw-w64.org/)
 
    #### Follow the installation instructions and install the "MSYS Basic System"
 

@@ -28,6 +28,8 @@ Fetch Data From MyAnimeList API And Save it To db file And Extract Data From db 
 
 ## How to Use The Program ?
 
+   - Run `python project.py`.
+
 **The Program Has Two features**
 
 1. **Insert Data:**

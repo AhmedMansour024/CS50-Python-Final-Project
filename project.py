@@ -11,7 +11,8 @@ import os
 conn = sqlite3.connect('animes_data.db')
 cursor = conn.cursor()
 
-# MyAnimeList search result LIMIT
+# MyAnimeList CLIENT_ID and search result LIMIT
+CLIENT_ID = "4268486705dc98087214ea6c1f279480"
 LIMIT = 5
 
 
@@ -43,8 +44,6 @@ def main():
         if not file_path:
             return 1
 
-        global CLIENT_ID
-        CLIENT_ID = input("Enter Your 'MyAnimeList' CLIENT_ID : ")
         print()
         return process_txt_file(file_path)
 

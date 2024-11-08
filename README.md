@@ -8,7 +8,7 @@ Fetch Data From MyAnimeList API And Save it To db file And Extract Data From db 
 
 ## Installing Dependencies
 
-1. **Clone** this repository to your Divice:
+1. **Clone** this repository to your Device:
 
    ```bash
    git clone https://github.com/AhmedMansour024/CS50-Python-Final-Project

@@ -6,21 +6,30 @@
 
 Fetch Data From MyAnimeList API And Save it To db file And Extract Data From db File And Save it in CSV file Based on Format Type Like [TV, OVA, Movie, Special, ONA, Music, CM, PV, TV Special]
 
-## Requirements For The Program to Run:
-1. You Must Have **CLIENT ID** From MyAnimeList Website.
-2. You Have to Run **make** In The TERMINAL To install all necessary Libraries and to Create Environment for the program to run with no Error.
-## You can CHECK How To Install **make** [HERE](https://github.com/AhmedMansour024/CS50-Python-Final-Project/blob/984d3ea05c69288cc7f9bd537f80bce438a89d1f/installing_make.md)
+## Installing Dependencies
 
-###  CLIENT ID
+1. **Clone** this repository to your Divice:
 
-You can apply for **CLIENT ID** at the [MyAnimeList Developer API](https://myanimelist.net/apiconfig).
+   ```bash
+   git clone https://github.com/AhmedMansour024/CS50-Python-Final-Project
+   ```
 
-### Run `make` to Set Up the Environment
-```bash
-make
-```
+2. Run **make** in the Terminal To Create an Environment:
+
+    ```bash
+    make
+    ```
+
+     - **Or** Create an Environment manually [Here](https://github.com/AhmedMansour024/Create-Environment-and-Insatalling-Make/blob/36926bbaf26c1b7c0060df2228f4cdad95667c86/INSTALL_VENV.md) and install all necessary libraries By using:
+
+       ```bash
+        pip install -r requirements.txt
+       ```
+
 ## How to Use The Program ?
+
 **The Program Has Two features**
+
 1. **Insert Data:**
     - if the user want to insert data to the database file.
     - then the program will ask about the **result type** Meaning:
@@ -34,7 +43,9 @@ make
     - then the program will ask about **Format type** And There is Two Choices:
         - if user want one format only Like [**TV**, **OVA**, **Movie**, **Special**, **ONA**, **Music**, **CM**, **PV**, **TV Special**].
         - if the user want to get all formats **all**.
+
 ## Here is Some images
+
 - Using **insert data**
 - ![Using **insert data**](images/1.JPG)
 - **Database File**
